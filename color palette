@@ -1,0 +1,16 @@
+https://www.csscolorpalettes.com/palettes/1301
+
+.first-color { 
+	background: #f5e1da; 
+}
+	
+.second-color { 
+	background: #f1f1f1; 
+}
+
+.third-color { 
+	background: #40a798; 
+}
+
+.fourth-color { 
+	background: #476269; 
