@@ -111,7 +111,7 @@ nav li{
 }
 
 .content-container{
-  padding: 160px 20px;
+  padding: 60px 20px;
   text-align: center;
 }
 
@@ -195,10 +195,7 @@ color:var(--branding-color);
     font-size: 44px;
   }
 
-  h4{
-    font-size: 26px;
-  }
-
+ 
   .hero{
     padding:80px 10px;
   }
@@ -208,7 +205,5 @@ color:var(--branding-color);
     text-align: center;
   }
 
-  footer .contact-box{
-    padding: 20px;
-  }
+  
 }
